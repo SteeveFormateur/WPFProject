@@ -4,10 +4,10 @@
 
 # Client
 
-** Formateur **   	:  	Steeve ASSOUS 
+**Formateur**   	:  	Steeve ASSOUS 
 
 # Objectifs
-> Créer une  **application fenêtrée WPF ** 
+> CrÃ©er une  **application fenÃªtrÃ©e WPF** 
 
 
 # Site Internet [Internet](http://www.ajc-formation.fr)
@@ -22,7 +22,7 @@
 |----------------|
 |  Valeur        |
 
-## Étapes
+## Ã‰tapes
 
 1. Etape 01
 2. Etape 02
